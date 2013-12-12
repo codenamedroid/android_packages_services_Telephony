@@ -95,4 +95,5 @@
          So, (94 - 38)/2 ==> 28dp -->
     <dimen name="incoming_call_widget_asset_margin">28dp</dimen>
 
+    <dimen name="settings_side_margin">@*android:dimen/preference_fragment_padding_side</dimen>
 </resources>
